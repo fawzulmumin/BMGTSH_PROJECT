@@ -50,3 +50,7 @@ python app.py
 - style.css: File CSS untuk styling halaman web.
 - script.js: File JavaScript untuk menangani logika frontend.
 - app.py: Backend Flask yang menangani prediksi menggunakan model machine learning.
+=======
+# BMGTSH_PROJECT
+Prediksi Produksi Padi Menggunakan LightGBM.
+
