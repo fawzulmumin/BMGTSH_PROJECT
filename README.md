@@ -7,6 +7,12 @@
 
 Aplikasi web untuk memprediksi produksi padi per provinsi di Pulau Sumatera berdasarkan luas panen dan kondisi iklim. Model regresi **LightGBM** dilayani lewat backend Flask, dengan antarmuka HTML/CSS/JavaScript.
 
+## Tampilan aplikasi
+
+<p align="center">
+  <img src="docs/screenshot.png" alt="Tampilan aplikasi prediksi produksi padi: form input, hasil prediksi, dan grafik visualisasi data" width="560">
+</p>
+
 ## Hasil
 
 | Metrik | Nilai |
